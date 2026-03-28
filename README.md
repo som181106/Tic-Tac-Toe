@@ -49,10 +49,13 @@ This project gave me better confidence in creating **interactive frontend applic
 
 ---
 
-## 📸 Screenshot
+## 📸 Screenshots
 
+<p align="center">
+  <img src="Screenshot 2026-03-28 204530.png" width="250"/>
+  <img src="Screenshot 2026-03-28 204550.png" width="250"/>
+  <img src="Screenshot 2026-03-28 204907.png" width="250"/>
+</p>
 
-
----
 
 
